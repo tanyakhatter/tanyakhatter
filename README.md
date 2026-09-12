@@ -1,35 +1,171 @@
-# 💫 Hi 👋, I'm Tanya Khatter
-**A Computer Science Engineering Student | Aspiring Software Engineer | DSA & AI/ML Enthusiast from India 🇮🇳**
+# Hi 👋, I'm Tanya Khatter
 
-Email Me 👉 ✉️ **tanyakhatter630@gmail.com** For Collaboration/Project. 😊😊
+### Final-Year Computer Science Engineering Student
 
-- 🔭 **I’m currently working on:** Building real-world Full Stack and Machine Learning projects.
-- 🌱 **I’m currently learning:** Data Structures & Algorithms, Machine Learning, and Web Development.
-- 👯 **I’m looking to collaborate on:** Open Source, Web Development, and AI/ML Projects.
-- 💬 **Ask me about:** C++, DSA, Web Development, ML Projects, and Coding Resources.
-- 🎯 **Career Goal:** To build impactful software, solve real-world problems, and continuously grow as an engineer.
-- ⚡ **Fun fact:** I believe every project is an opportunity to learn something new.
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanya Khatter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanyakhatter630@gmail.com) 
+**Aspiring Software Engineer | AI/ML & Full-Stack Enthusiast**
 
-<!-- Snake Game Repo View -->
+I build practical software and machine learning projects with a focus on solving real-world problems.
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanya-khatter-26989733">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanya%20Khatter-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tanyakhatter630@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tanyakhatter&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tanyakhatter&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanyakhatter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+## 👩‍💻 About Me
+
+* 🎓 Final-year B.Tech Computer Science Engineering student with an interest in **Software Development, AI/ML, and Data**
+* 💻 Strong interest in **DSA, problem solving, and building practical projects**
+* 🌱 Currently improving my skills in **Machine Learning, Full-Stack Development, SQL, and Cloud & Data Engineering**
+* 🚀 Interested in building technology that solves **real-world problems**
+* 🤝 Open to **internships, entry-level opportunities, and collaborative projects**
+* 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* C++
+* Python
+* JavaScript
+* SQL
+
+### Web Development
+
+* HTML5
+* CSS3
+* React
+* Node.js
+
+### Machine Learning & Data
+
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Streamlit
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 ShopSense AI — Online Purchase Intent & Revenue Recovery Intelligence
+
+**Python • Scikit-learn • Random Forest • K-Means • Pandas • Streamlit**
+
+An AI-powered e-commerce intelligence platform that predicts purchase intent, analyzes customer behavior, segments visitors, and provides rule-based revenue recovery recommendations.
+
+* Purchase-intent prediction using **Random Forest**
+* Customer segmentation using **K-Means**
+* Interactive Streamlit analytics dashboard
+* Model accuracy of **90.06%**
+* ROC-AUC of **0.913**
+* Deployed using **Streamlit Community Cloud**
+
+🔗 [View Repository](https://github.com/tanyakhatter/ShopSense-AI)
+🌐 [Live Demo](https://shopsense-ai-vav9lks3liojfvglhnsnwf.streamlit.app/)
+
+---
+
+### 🎬 Movie Recommendation System
+
+**Python • Pandas • Scikit-learn • Streamlit**
+
+A content-based movie recommendation system that recommends similar movies using text-based feature extraction and cosine similarity.
+
+* Content-based recommendation
+* CountVectorizer for feature extraction
+* Cosine similarity for recommendations
+* Interactive Streamlit interface
+* TMDB dataset and movie posters
+
+🔗 [View Repository](https://github.com/tanyakhatter/movie-recommendation-system)
+
+---
+
+### 🎓 Student Admission Form
+
+**HTML • CSS • JavaScript**
+
+A responsive student admission form focused on form handling, validation, and dynamic interaction using JavaScript.
+
+* Form validation
+* User input handling
+* Dynamic UI interaction
+* Responsive design
+
+🔗 [View Repository](https://github.com/tanyakhatter/student-admission-form)
+
+---
+
+### 🛍️ RedStore — Responsive E-Commerce Web Application
+
+**HTML • CSS • JavaScript**
+
+A responsive e-commerce website designed to demonstrate modern frontend development and interactive shopping functionality.
+
+* Product listings
+* Shopping cart functionality
+* Authentication UI
+* Responsive design
+* Interactive frontend components
+
+🔗 [View Repository](https://github.com/tanyakhatter/RedStore-Responsive_E-Commerce_Web_Application)
+
+---
+
+### 🌦️ Weather Forecast Web Application
+
+**HTML • CSS • JavaScript • OpenWeather API**
+
+A responsive weather application that fetches real-time weather information using the OpenWeather API.
+
+* City-based weather search
+* Real-time API integration
+* Fetch API
+* Responsive user interface
+* Dynamic weather information
+
+🔗 [View Repository](https://github.com/tanyakhatter/Weather_Forecast_Web_Application)
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Machine Learning
+* Full-Stack Development
+* SQL & Database Management
+* Cloud & Data Engineering
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
+## 🤝 Let's Connect
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm always open to discussing **software development, AI/ML, projects, and career opportunities.**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanya-khatter-26989733">LinkedIn</a> •
+  <a href="mailto:tanyakhatter630@gmail.com">Email</a> •
+  <a href="https://github.com/tanyakhatter">GitHub</a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
